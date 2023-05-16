@@ -14,6 +14,8 @@ https://drive.google.com/drive/folders/1RhLxuHoxfB5C-Nz2_oyVAX1ima02Ddt8?usp=sha
  
 
 <div align="center">
+ 
+![Screenshot from 2023-05-16 16-30-34](https://github.com/juanb09111/FinnForest/assets/61198473/461691c7-93d3-4cdb-b499-f45dad6a48c1)
 
 ![FinnWoodlands](https://user-images.githubusercontent.com/61198473/232905453-406ef941-c030-4d80-b2f0-e9daf569e5f3.png)
 

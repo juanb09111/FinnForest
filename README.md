@@ -6,7 +6,7 @@ https://link.springer.com/chapter/10.1007/978-3-031-31435-3_7
  
  ## The data
  To download the subset with annotations follow this link:\
-https://drive.google.com/file/d/1hMNtjjzshF-U45yO52atwccgWh-j1Oze/view?usp=share_link
+https://drive.google.com/file/d/1uf9QBv1j_VRjM6jWCp2cgw5ZQ5CUx9R7/view?usp=share_link
 
 
 To download all data (no GT annotations), including RGB stereo frames, point clouds and sparse depth maps  follow this link:\

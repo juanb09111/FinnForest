@@ -13,10 +13,13 @@ To download all data (no GT annotations), including RGB stereo frames, point clo
 https://drive.google.com/drive/folders/1RhLxuHoxfB5C-Nz2_oyVAX1ima02Ddt8?usp=share_link
  
 
- ![FinnWoodlands](https://user-images.githubusercontent.com/61198473/232905453-406ef941-c030-4d80-b2f0-e9daf569e5f3.png){ width="800" height="600" style="display: block; margin: 0 auto" }
- 
- 
- ![Screenshot from 2023-05-16 15-50-01](https://github.com/juanb09111/FinnForest/assets/61198473/f17d4cc7-0e73-491a-836a-0e82f93ee19d){ width="800" height="600" style="display: block; margin: 0 auto" }
+<div align="center">
+
+![FinnWoodlands](https://user-images.githubusercontent.com/61198473/232905453-406ef941-c030-4d80-b2f0-e9daf569e5f3.png)
+
+![Screenshot from 2023-05-16 15-50-01](https://github.com/juanb09111/FinnForest/assets/61198473/f17d4cc7-0e73-491a-836a-0e82f93ee19d)
+
+</div>
 
 
 ## Cite

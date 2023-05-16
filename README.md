@@ -2,7 +2,7 @@
  This paper introduces a forest dataset called FinnWoodlands, which consists of RGB stereo images, point clouds, and sparse depth maps, as well as ground truth manual annotations for semantic, instance, and panoptic segmentation.
  
  Read the full paper here:\
-https://link.springer.com/chapter/10.1007/978-3-031-31435-3_7#citeas
+https://link.springer.com/chapter/10.1007/978-3-031-31435-3_7
  
  ## The data
  To download the subset with annotations follow this link:\
